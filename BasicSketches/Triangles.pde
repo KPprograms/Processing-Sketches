@@ -1,4 +1,4 @@
-// Completion 2 CGRA 151 assignment 1 
+
 size (600, 600);
 background (128);
 for (int i = 0; i < width - 100; i++){
