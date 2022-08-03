@@ -1,9 +1,3 @@
-// Assignment 3 Completion 
-
-// CGRA Assignment 3 Core 
-// Kevin Lee
-// 300563771
-
 import java.util.ArrayList;
 // global variables
 ArrayList<PVector> controlPoints;
