@@ -1,6 +1,4 @@
-// Assignment 2 CGRA 151
-// ******************************COMPLETION***************************************** 
-// name: Kevin Lee
+
 
 // Variables 
 float x = 100; // positions 
