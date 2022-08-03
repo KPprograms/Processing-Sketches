@@ -1,5 +1,4 @@
-// Completion 2:
-// Name: Kevin Lee   ID: 300563771 
+
 
 background(128);
 size(600, 600);
